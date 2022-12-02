@@ -21,4 +21,7 @@ Create the dashboard which should include the following in the insights:
 9. Show the brands.
 10. Regional quarterly average profit.
 
+
+https://public.tableau.com/app/profile/sadiq.ahmed3042/viz/WalmartRetailDataAnalysis_16699996603310/Dashboard2
+
 Thanks for checking out.
